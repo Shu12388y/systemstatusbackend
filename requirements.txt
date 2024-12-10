@@ -1,0 +1,4 @@
+fastapi==0.100.0
+uvicorn==0.23.2
+psutil==5.9.6
+requests==2.31.0
